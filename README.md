@@ -115,7 +115,7 @@ https://nexushr-advance-employee-management-1u4v.onrender.com
 
 ## Swagger Dashboard
 
-![Swagger Dashboard](images/swagger-dashboard.png)
+![Swagger Dashboard](images/swagger-ui.png)
 
 ---
 
