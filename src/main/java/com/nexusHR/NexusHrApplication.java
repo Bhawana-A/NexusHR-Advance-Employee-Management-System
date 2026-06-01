@@ -8,6 +8,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 @EnableJpaAuditing // Iske bina @CreatedDate kaam nahi karega
 public class NexusHrApplication {
 
+	
 	public static void main(String[] args) {
 		SpringApplication.run(NexusHrApplication.class, args);
 	}
