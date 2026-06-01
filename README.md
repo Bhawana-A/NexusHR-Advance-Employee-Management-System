@@ -287,6 +287,6 @@ If you like this project, don't forget to give it a Star ⭐ on GitHub.
 
 <div align="center">
 
-### 🚀 Built with Spring Boot by Bhawana Ahirwar
+### 🚀 © 2026 Bhawana Ahirwar | NexusHR Employee Management System
 
 </div>
